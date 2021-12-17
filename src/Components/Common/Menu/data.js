@@ -45,7 +45,7 @@ export const menuItemsData = [
       category: 'veg',
       info: 'soft, pillowy steamed savory cake made from rice and lentil batter',
       price: 69,
-      img: '/images/idli.jpg',
+      img: '/images/Idli.jpg',
     },
     {
       id: 7,
